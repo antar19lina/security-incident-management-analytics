@@ -35,6 +35,6 @@ security-incident-management-analytics/
     └── tableau-preview.png
 ```
 ## Data Visualization
-Dashboards were created using Tableau Desktop to analyse cybersecurity incident data.
-Visualisations focus on operational KPIs such as incident volume, severity trends,
+*Dashboards were created using Tableau Desktop to analyse cybersecurity incident data.
+*Visualisations focus on operational KPIs such as incident volume, severity trends,
 and Mean Time to Resolution (MTTR) to support business decision-making.
